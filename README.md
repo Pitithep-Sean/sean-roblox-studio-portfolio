@@ -40,7 +40,7 @@ To maintain 100% server safety and optimal sorting, this project adheres to the 
 
 The content of this repository is automatically built and deployed as a live web application via GitHub Pages.
 
-👉 View Live Website: [https://pitithep-sean.github.io/sean-roblox-studio-portfolio/](https://www.google.com/search?q=https://pitithep-sean.github.io/sean-roblox-studio-portfolio/)
+👉 View Live Website: https://pitithep-sean.github.io/sean-roblox-studio-portfolio/
 
 ---
 
