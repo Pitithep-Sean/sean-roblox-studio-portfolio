@@ -16,4 +16,4 @@
         
 - **🎨 Reference Artifact & Frontline Evidence:**
     
-* ➔ [🔗 คลิกวาร์ปไปตรวจหลักฐานหน้างานและคลิปวิดีโอ (May 2026)](../../1-execution-timeline/year-2026/sean202605.md#L260504a)
+* ➔ [🔗 คลิกวาร์ปไปตรวจหลักฐานหน้างานและคลิปวิดีโอ (May 2026)](../1-execution-timeline/year-2026/sean202605.md#L260504a)
