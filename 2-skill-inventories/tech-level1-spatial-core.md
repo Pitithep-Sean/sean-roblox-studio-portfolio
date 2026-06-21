@@ -1,31 +1,19 @@
-# 📐 LEVEL 1: SPATIAL CORE & 3D GEOMETRY INVENTORY
-> **📌 Track 2 Database:** This repository acts as a centralized competency inventory. It maps Sean's engineering mastery by domain, linking directly to verified production logs, source codes, and execution evidence within the Track 1 Chronological Timeline.
+# 📚 TECHNICAL INVENTORY: SKILL LEVEL 1 (SPATIAL & CORE PROGRAMMING)
 
----
+> **🎯 Module Overview:** คลังทักษะและทฤษฎีคอมพิวเตอร์ระดับที่ 1 มุ่งเน้นการจัดการวัตถุทางกายภาพ (Instance Manipulation) ระบบพิกัด 3 มิติ และโครงสร้างการวนลูปพื้นฐาน
 
-## 🛠️ TECHNICAL COMPETENCY CHECKLIST & GATEWAYS
-*Review the verified skill inventory below. Click each link to jump directly to the live codebase, journal entry, and video proof in the chronological logbook.*
+## 🧱 MODULE: 3D SPACE & INSTANCE DISPLACEMENT
 
-### 📦 1. 3D Vector Mathematics & Alternating Arrays
-* **Core Concept:** Understanding 3D coordinate space, vector displacement offsets, and looping structures.
-* **Applied Logic:** Utilizing the mathematical Modulo operator (`%`) to dynamically shift physical object attributes (Color and Material) without manual duplication.
-* **🔗 Verification Link:** 📄 **[View Live Script & Video Proof (March 2026 Logbook)](../Year-2026/2026-03-march.md#milestone-modulo-sequencing)**
+### 🔬 [Level 1 Core] Vector3 & Spatial Mapping Theory
 
----
-
-### 📦 2. Coordinate Frame (CFrame) Engine & Teleportation
-* **Core Concept:** Understanding 3D coordinate space, vector displacement offsets, and looping structures.
-* **Applied Logic:** Designing a dual-point instant transportation network calculating safe character boundaries (applying a Y-axis + 3.5 studs height displacement to prevent clipping).
-* **🔗 Verification Link:** 📄 **[View Live Script & Architecture Log (May 2026 Logbook)](sean202605.md)**
-
----
-
-### 📦 3. Manual Trace Debugging & Error Auditing
-* **Core Concept:** Isolating physics and UI race conditions via line-by-line runtime print tracking.
-* **Applied Logic:** Overriding AI runtime anomalies through custom state validation and part-hierarchy renaming strategies.
-* **🔗 Verification Link:** 📄 **[View Debugging Ledger & Case Study (April 2026 Logbook)](sean202604.md#case-study-gui-debugging)**
-
----
-
-## 📁 CROSS-REFERENCE INDEX
-* 📄 **[Back to Master Profile](../../index.md)** — Return to the main engineering showcase master page.
+- **Academic Alignment (สะพานเชื่อมวิชาการ):** ครอบคลุมการเรียนรู้ระบบพิกัดคาร์ทีเซียน (Cartesian Coordinate System) แกน X, Y, Z ในพื้นที่จำลอง 3 มิติ และเข้าใจการคำนวณระยะทางแบบเวกเตอร์เบื้องต้น
+    
+- **Key Learning Milestones:**
+    
+    1. การเข้าถึง Object Properties ผ่านการทำ Object Referencing ในกลไก Parent-Child Hierarchy
+        
+    2. การใช้โครงสร้างคำสั่งทำซ้ำแบบไม่มีเงื่อนไขสิ้นสุด (`while true do`) ร่วมกับกลไกหน่วงเวลาควบคุมเอนจิน (`task.wait`)
+        
+- **🎨 Reference Artifact & Frontline Evidence:**
+    
+* ➔ [🔗 คลิกวาร์ปไปตรวจหลักฐานหน้างานและคลิปวิดีโอ (May 2026)](../../1-execution-timeline/year-2026/sean202605.md#L260504a)
