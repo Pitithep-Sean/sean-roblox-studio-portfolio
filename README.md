@@ -3,30 +3,36 @@
 
 ---
 
+## 🎯 STATEMENT OF PURPOSE
+> **📌 Executive Intent:** This portfolio documents a two-year journey of self-directed learning, project-based exploration, and engineering thinking through the creation of increasingly complex digital systems. Beginning with no prior experience in Roblox Studio or Lua programming, Sean used game development as a practical learning environment to develop computational thinking, spatial reasoning, problem-solving skills, and the ability to collaborate critically with AI tools.
+> 
+> More than a technical repository, this logbook serves as a transparent record of how a young learner plans projects, overcomes obstacles, reflects on mistakes, adapts strategies, and progressively builds confidence in tackling complex challenges. Through authentic reflections, documented iterations, and evidence-based milestones, the portfolio captures not only what was built, but also how learning, judgment, and engineering mindset evolved over time.
+
+---
+
+## 📸 THE ORIGIN: DAY ONE (จุดเริ่มต้นการเดินทาง)
+![Day One Workspace](assets/images/260305-sean-first-day.jpg)
+## 🌱 ORIGIN STORY
+
+> On March 5, 2026, Sean and his father began this journey with no prior experience in Roblox Studio, game development, or Lua programming.
+> What started as a birthday commitment to explore technology together gradually evolved into a long-term experiment in project-based learning, engineering thinking, and AI-assisted education.
+> Rather than following a predefined curriculum, Sean learned through building, testing, debugging, reflecting, and iterating on self-directed projects. Throughout the journey, his father served not as a traditional instructor, but as a mentor and learning partner, exploring unfamiliar challenges alongside him.
+> This portfolio documents that shared learning journey and the progressive development of technical skills, problem-solving ability, and independent thinking over time.
+
+> **👦 Student's Vision & Drive:** > *"ผมอยากเข้าใจว่าเกมที่ผมชอบมันทำงานอยู่เบื้องหลังยังไง ไม่ใช่แค่เป็นคนเล่น เป้าหมายของผมคือการสร้างระบบที่ซับซ้อนเพื่อให้เพื่อนๆ และน้องชายได้สนุกไปด้วยกัน"*
+> (*"I want to understand how my favorite games work behind the screen, not just play them. My goal is to build a complex system that my friends and brothers can enjoy together."*)
+
+> **👨‍👦 Mentor’s Insight & Masterclass Analysis:**
+> *"สิ่งที่มีค่าที่สุดในภาพนี้ไม่ใช่แค่การเริ่มต้นเรียนรู้วิชาคอมพิวเตอร์ แต่คือ 'พฤติกรรมการเรียนรู้เชิงรุก (Active Learning)' จากสายตาของ Mentor ผมเห็นฌอห์นทำหน้าที่เป็นแกนหลักในการควบคุมโปรแกรม (Independent Explorer) ขณะที่น้องชายฝาแฝดอย่างเกื้อและกัญจน์คอยช่วยระดมความคิดอยู่รอบข้าง บรรยากาศการเผชิญหน้ากับความท้าทายใน 3D Viewport และการกล้าตั้งคำถามเพื่อ Debug ระบบตั้งแต่วันแรก เป็นหลักฐานเชิงประจักษ์ที่สะท้อนถึงกระบวนการคิดเชิงคำนวณ (Computational Thinking) และวุฒิภาวะทางดิจิทัล (Digital Wisdom) ที่พร้อมจะเติบโตอย่างมั่นคงในระยะยาว"*
+ ---
+
 ## 👨‍💻 CREATOR PROFILE
 * **Developer:** เด็กชาย ปิติเทพ สกุลเรืองรักษ์ / น้องฌอห์น (Pitithep Sakulruangrak)
 * **Role:** Junior Game Developer & Luau Scripter
 * **Core Technology:** Roblox Studio | Luau (Lua 5.1 Based)
 * **Lead Mentor:** Sakchai Sakulruangrak (Dad / System Architect)
 * **System Repository:** 📁 `sean-roblox-studio-portfolio`
-
----
-
-## 🎯 STATEMENT OF PURPOSE
-> **📌 Executive Intent:** This engineering logbook documents a 2-year journey of developing computational thinking, spatial reasoning, and software engineering skills through autonomous game development. It serves as a transparent record of building software systems from a blank canvas, practicing manual trace debugging, and exercising critical digital judgment in AI-assisted collaboration. Beyond a technical repository, this project reflects sustained curiosity, self-directed learning, and structured problem-solving throughout Sean's development as a young engineer.
-
----
-
-## 📸 THE ORIGIN: DAY ONE (จุดเริ่มต้นการเดินทาง)
-![Day One Workspace](assets/images/260305-sean-first-day.jpg)
-**English:** This historic photograph captures the exact moment I stepped into the world of software engineering alongside my brothers. Turning towards the game engine screen, we initiated our very first collaborative technical dialogue. (The developer controlling the workstation in the center is me).
-**ภาษาไทย:** นี่คือภาพถ่ายวินาทีประวัติศาสตร์ที่ผมก้าวเข้าสู่โลกของวิศวกรรมซอฟต์แวร์อย่างเต็มตัวร่วมกับพี่ชายและน้องชาย โดยหันหน้าเข้าหาหน้าจอเอนจิ้นพัฒนาเกมเพื่อเริ่มต้นแก้ไขปัญหาเชิงตรรกะร่วมกันเป็นทีม (หนุ่มคนกลางที่คุมเครื่องคอมพิวเตอร์คือผมเอง)
-> **👦 Student's Vision & Drive:** > *"ผมอยากเข้าใจว่าเกมที่ผมชอบมันทำงานอยู่เบื้องหลังยังไง ไม่ใช่แค่เป็นคนเล่น เป้าหมายของผมคือการสร้างระบบที่ซับซ้อนเพื่อให้เพื่อนๆ และน้องชายได้สนุกไปด้วยกัน"*
-> (*"I want to understand how my favorite games work behind the screen, not just play them. My goal is to build a complex system that my friends and brothers can enjoy together."*)
-
-> **👨‍👦 Mentor’s Insight & Masterclass Analysis:**
-> *"สิ่งที่มีค่าที่สุดในภาพนี้ไม่ใช่แค่การเริ่มต้นเรียนรู้วิชาคอมพิวเตอร์ แต่คือ 'พฤติกรรมการเรียนรู้เชิงรุก (Active Learning)' จากสายตาของ Mentor ผมเห็นฌอห์นทำหน้าที่เป็นแกนหลักในการควบคุมโปรแกรม (Independent Explorer) ขณะที่น้องชายฝาแฝดอย่างเกื้อและกัญจน์คอยช่วยระดมความคิดอยู่รอบข้าง บรรยากาศการเผชิญหน้ากับความท้าทายใน 3D Viewport และการกล้าตั้งคำถามเพื่อ Debug ระบบตั้งแต่วันแรก เป็นหลักฐานเชิงประจักษ์ที่สะท้อนถึงกระบวนการคิดเชิงคำนวณ (Computational Thinking) และวุฒิภาวะทางดิจิทัล (Digital Wisdom) ที่พร้อมจะเติบโตอย่างมั่นคงในระยะยาว"*
- 
+* 
 ---
 ## 🏆 CERTIFICATES & ACHIEVEMENTS
 *⏳ (พื้นที่สำหรับอัปเดตเกียรติบัตรหรือความสำเร็จวิชาการในอนาคต)*
