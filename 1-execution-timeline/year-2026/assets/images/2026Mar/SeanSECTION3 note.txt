@@ -1,0 +1,33 @@
+sean2603-1st-house-d
+Student’s Note: I feel super improved, My problem is when I forgot to add another stud so I need to waste 2 minutes for it. I solved it by using scale.
+Family Observation & Caption: "Sean successfully followed the step-by-step instructions to build a basic house, demonstrating strong discipline. A key learning moment occurred when he realized the floor thickness was only 1 stud instead of the required 2 studs. This minor error significantly impacted the alignment of the entrance stairs. Rather than starting over, Sean used his previous knowledge to modify the dimensions and correct the structure. This shows his ability to identify technical errors and understand how one measurement (floor height) affects the entire architectural system."
+Clip: Roblox Sean 2026Mar09.mp4
+
+sean2603-mcdonald
+Student’s Note: “I feel very good of finish building Mcdonalds. I learned how to use effect and learn how to observe parameter change, I will use it every time I build a game. Effects is so cool, its Fantastic.”
+Family Observation & Caption:  "Sean learned to navigate the Properties window with more precision today. He quickly picked up the technique of Before/After comparison to identify which parameters were causing undesired lighting effects. Once he understood how to track these changes, he was able to independently adjust light angles and brightness to achieve the exact atmosphere he wanted for his shop."
+Clip: Sean_2026Mar11_LightDecal.mp4
+
+learning-environment-a
+Sean and his younger brothers are learning Client-Server concept, also teaching basic Lua Programming
+Student’s Note: “I understood how Server and Client work. I also know how we can communicate by programming, they have a lot of data types like string, boolean, number.”
+Family Observation & Caption: "Sean showed a sophisticated understanding of Network Infrastructure today. Through a hands-on simulation where he acted as the 'Server' for his brothers, he grasped how data synchronizes across a network. Furthermore, his transition into Lua Programming was seamless. He not only mastered basic Data Types but also demonstrated Leadership qualities by mentoring his younger brothers through the coding logic. This ability to synthesize complex information and teach others is a clear indicator of high-level mastery."
+
+sean2603-debug
+Student’s Note: “I faced a lot of problems during coding like restart, values, colors and typings. I was stressed. I solved it by checking line by line in the screen. Thai’s why I didn’t face any mistake now.”
+Family Observation & Caption: "Sean demonstrated significant maturity in his technical workflow today. The complexity of 24 repetitive instructions initially caused some confusion and stress. However, Sean independently developed a Tracking Strategy—physically marking the lines on his reference sheet to ensure he stayed on track. This Line-by-Line Verification method eliminated all skip-errors and allowed him to integrate advanced commands from his previous knowledge. His ability to acknowledge stress, identify the cause, and implement a Systematic Solution is a hallmark of an advanced problem-solver."
+
+sean2603-while-for-loop
+Student’s Note:  “I learned how to change color while elevator is floating. I felt impressed and believed in myself. I also learned to change while-loop to for-loop. It's not hard and work the same. I didn't face any problem today. Sean"
+Family Observation & Caption: Sean was able to replicate his complex While-Do logic into a For-Loop structure effortlessly. He maintained all internal logic (like the color-change condition at Y >= 10) perfectly. Sean is beginning to see code as a "Set of Tools" rather than a "Set of Rules." he focuses on how the new way compares to the old one. This ability to evaluate different solutions is the foundation of Senior Engineering Thinking
+
+sean2603-if-else
+Student’s Note: “I learned how to inputBox and understand more about IF ELSE. At first, I struggle about how to script IF ELSE but I solved it by trying to understand it as much as possible.”
+Family Observation & Caption: "Today's session was a rigorous test of Sean's Logical Independence. The goal was to ensure he wasn't just replicating code from memory. We challenged him to map real-life daily routines into programming structures (e.g., 'If it's Monday, do X'). Furthermore, he successfully implemented a Dynamic Color System where a Part’s color changes based on user input from a TextBox. This required him to manage the Order of Execution (Sequencing) and understand how a script 'listens' to a user. His reflection shows a shift in mindset—moving from struggling with syntax to actively seeking to understand the 'Why' behind the code."
+
+sean2603-modulo
+Student’s Note: “Today I learned modulo operator, it seperates odd number and even number.  I also learned coding on blank screen. I started by using objects, then button and textbox, next was coding. I use my understanding to code not memory. I feel very improved. Sean”
+Family Observation & Caption: "Sean’s ability to rebuild the Password Vault without a template is a significant milestone. It proves he understands the "Data Flow"—how a user's input travels from a TextBox into an If-Statement to trigger a physical change in the game world. This systemic thinking is a high-level engineering trait.
+
+
+
