@@ -1,68 +1,72 @@
 # Product Concept & Planning
 
-*This section curates authenticated engineering records demonstrating how Sean transforms an initial game idea into a structured software project before implementation begins. Every record links directly to its original development evidence preserved in Track 1.*
-
-> [!IMPORTANT]
-> ### Selection Criteria
->
-> This page catalogs engineering activities related to:
->
-> - Product vision
-> - Gameplay concept
-> - Feature planning
-> - Development roadmap
-> - Project scope
-> - Milestone planning
->
-> Coding, debugging, testing, and deployment activities are documented in subsequent engineering phases.
+*This phase documents how Sean transforms an initial game idea into a structured software project before implementation begins. The records below demonstrate authentic planning activities completed prior to software development.*
 
 ---
 
-# Engineering Evidence
+## Software Development Lifecycle
+
+**Current Phase:** Product Concept & Planning
+
+| SDLC Phase | Engineering Focus |
+| :--- | :--- |
+| **① Product Concept & Planning** *(Current)* | Define the product vision, gameplay objectives, project scope, and development roadmap. |
+| ② [World & System Design](./ser-2-design.md) | Design maps, systems, and user experience before implementation. |
+| ③ [Software Implementation](./ser-3-implementation.md) | Build gameplay mechanics and software systems. |
+| ④ [Testing & Debugging](./ser-4-testing.md) | Verify functionality, resolve defects, and improve reliability. |
+| ⑤ [Deployment & Continuous Improvement](./ser-5-deployment.md) | Release the software and continue iterative improvements. |
 
 ---
 
-## 📝 Establishing the Core Gameplay Rules
+# Sean's Engineering Records***
 
-Before implementation began, Sean first defined the game's objectives, player progression, and scoring rules. This planning process established a clear engineering foundation, allowing later software implementation to follow predefined gameplay logic instead of ad-hoc decisions.
+---
 
-| Date | Project | Source |
-| :--- | :--- | :--- |
-| Jun 2026 | Adventure Garden | 🔗 Track 1 → Jun 2026 |
+## 📝 Defining the Core Gameplay Rules
+
+Sean established the gameplay objectives, player progression, and scoring rules before any production code was written. This planning activity created the engineering foundation that guided subsequent software implementation.
+
+| Project | Date |
+| :--- | :--- |
+| Adventure Garden | June 2026 |
 
 <img src="./assets/ser-concept-game-rules.jpg" width="700">
 
-*Figure 1. Initial gameplay planning and rule definition.*
-🔗 [View Complete Engineering Record](../1-execution-timeline/year-2026/sean202606.md#L260621a)**
+*Figure 1. Gameplay rules documented before software implementation.*
+
+🔗 **View Complete Engineering Record**
+→ ../1-execution-timeline/year-2026/sean202606.md#L260621a
 
 ---
 
-## 📝 Creating the Initial Development Roadmap
+## 📝 Planning the Development Roadmap
 
-Sean organized the project into a structured development sequence, defining implementation priorities and major software milestones before writing production code. This roadmap guided the project's execution throughout subsequent development.
+Before implementation, Sean organized the project into sequential milestones covering maps, shops, UI, gameplay systems, testing, and release planning. This roadmap served as the execution blueprint throughout development.
 
-| Date | Project | Source |
-| :--- | :--- | :--- |
-| Jun 2026 | Adventure Garden | 🔗 Track 1 → Jun 2026 |
+| Project | Date |
+| :--- | :--- |
+| Adventure Garden | June 2026 |
 
 <img src="./assets/ser-concept-roadmap.jpg" width="700">
 
-*Figure 2. Software development roadmap prepared before implementation.*
+*Figure 2. Initial software development roadmap.*
+
+🔗 **View Complete Engineering Record**
+→ ../1-execution-timeline/year-2026/sean202606.md#L260621a
 
 ---
 
-## 📝 Defining the First Feature Scope
+## 📝 Defining the Initial Feature Scope
 
-Sean identified the first production scope by selecting the core gameplay systems to be completed during the initial release, including shops, UI, economy, and farming mechanics. This activity demonstrates practical scope management during early software planning.
+Sean identified the minimum feature set required for the first playable version of the game, prioritizing the systems that would be implemented during the initial release cycle.
 
-| Date | Project | Source |
-| :--- | :--- | :--- |
-| Jun 2026 | Adventure Garden | 🔗 Track 1 → Jun 2026 |
+| Project | Date |
+| :--- | :--- |
+| Adventure Garden | June 2026 |
 
 <img src="./assets/ser-concept-feature-scope.jpg" width="700">
 
-*Figure 3. Early feature prioritization and project scope definition.*
+*Figure 3. Initial feature scope established before implementation.*
 
----
-
-⬅ Back to Sean's Software Engineering Records
+🔗 **View Complete Engineering Record**
+→ ../1-execution-timeline/year-2026/sean202606.md#L260621a
